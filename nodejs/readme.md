@@ -1,11 +1,11 @@
 # Data Structures
 ## 1. Stacks
-	Dynamic data structures that follow the **Last In First Out (LIFO)** principle.
-	Example: ```stacks.js```
+Dynamic data structures that follow the **Last In First Out (LIFO)** principle.
+Example: ```stacks.js```
 
 ## 2. Sets
-	An unordered collection of objects, and that can store unique values.
-	Example: ```sets.js```
+An unordered collection of objects, and that can store unique values.
+Example: ```sets.js```
 
 ## 3. Queues and Priority Queues
 
